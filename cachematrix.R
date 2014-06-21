@@ -1,4 +1,3 @@
-setwd('/Users/iLeo/coursera/DataScience/02-RProgramming/ProgrammingAssignment2')
 
 ## since calculating the inverse of a matrix can be an expensive operation,
 ## we want to provide an easy way calculate it once and keep its value cached
